@@ -1,5 +1,5 @@
-#include "mainwindow.h"
-#include <QApplication>
+//#include "mainwindow.h"
+//#include <QApplication>
 
 // Module "core"
 #include <opencv2/core/core.hpp>
